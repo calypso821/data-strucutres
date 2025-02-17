@@ -1,0 +1,30 @@
+# Ignore class files
+*.class
+
+# Ignore log files
+*.log
+
+# Ignore build directories
+/build/
+/bin/
+
+# Ignore IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore Maven / Gradle directories
+/.m2/
+/target/
+/.gradle/
+
+# Ignore Eclipse project files
+.project
+.classpath
+.settings/
